@@ -1,0 +1,24 @@
+{
+	"contentrating" : "Everyone",
+	"description" : "超喜欢这个动态壁纸，于是对视频进行了优化分享给大家\n原壁纸作者: 大污师DWS (https://space.bilibili.com/59514408)",
+	"file" : "output3.mp4",
+	"general" : 
+	{
+		"properties" : 
+		{
+			"schemecolor" : 
+			{
+				"order" : 0,
+				"text" : "ui_browse_properties_scheme_color",
+				"type" : "color",
+				"value" : "0 0 0"
+			}
+		}
+	},
+	"preview" : "preview.gif",
+	"tags" : [ "Anime" ],
+	"title" : "鬼灭之刃 蝴蝶忍 4K",
+	"type" : "video",
+	"visibility" : "public",
+	"workshopid" : "1852590028"
+}
